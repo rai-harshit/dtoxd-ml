@@ -1,2 +1,2 @@
-Meme
-Notmeme
+0 explicit
+1 safe
